@@ -1,4 +1,4 @@
-package ru.job4j.sqch8ex1;
+package ru.job4j.sqch8ex1.queryParam;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
